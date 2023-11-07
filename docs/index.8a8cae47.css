@@ -1,0 +1,1 @@
+.main{display:flex}.aside{flex-grow:.3}.aside1{flex-grow:.4}.content{flex-grow:.7}#listContainer{height:500px;border:1px solid #000;overflow-x:hidden;overflow-y:scroll}
